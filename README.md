@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="A_digital_graphic_design_banner_features_Miguel_Gó.png" width="100%">
+  <img src="./A_digital_graphic_design_banner_features_Miguel_Gó.png" alt="Banner Miguel Gómez" width="100%">
 </p>
 
 # 👨‍💻 Miguel Gómez Sánchez  
